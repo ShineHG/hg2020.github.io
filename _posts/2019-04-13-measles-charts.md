@@ -38,7 +38,7 @@ Lastly, the measles incidence produced using the Holoviews package:
 
 
 
-<div id="hv-chart-1"></div>
+<div id="hv-chart-1">height="200" width="200" /</div>
 
 
 
