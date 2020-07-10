@@ -37,10 +37,9 @@ alt.renderers.enable('notebook')
 Lastly, the measles incidence produced using the Holoviews package:
 
 
-<body>
-<div id="hv-chart-1">height=400, width=400</div>
-<body>
+<iframe width="100%" height="400" frameborder="0" scrolling="no"src="hv-chart-1"></iframe>
 
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~hugolmn/55.embed?link=false&autosize=true&modebar=false"></iframe>
 
 
 
